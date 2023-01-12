@@ -1,0 +1,1 @@
+save the database AdventureWorksLT.bak on backup file of msql server and restore it.
